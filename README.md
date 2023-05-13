@@ -1,7 +1,7 @@
 # Any Files to Google Drive with JDownloader
 [![Generic badge](https://img.shields.io/badge/Author-fpet007-green)](https://shields.io/)
 
-Il s'agit d'un ordinateur portable Google Colab avec Jdownloader, qui peut télécharger des torrents sur Google drive.
+Il s'agit d'un ordinateur portable Google Colab avec Jdownloader, qui peut télécharger des fichiers sur Google drive.
 
 
 
